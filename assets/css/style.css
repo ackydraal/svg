@@ -1,9 +1,9 @@
 * {
     margin: 0;
 }
-.grey-chicken .chicken-color {
-    fill: red;
+.chicken-color {
+    transition: all 2s;
 }
-.blue-eyes .eye-color {
-    fill: blue;
+svg:hover .chicken-color {
+    fill: red;
 }
