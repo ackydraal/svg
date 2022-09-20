@@ -7,3 +7,17 @@
 svg:hover .chicken-color {
     fill: red;
 }
+body {
+    background-color: bisque;
+}
+nav {
+    text-align: center;
+}
+.grey-chicken {
+    transform: scale(.2);
+}
+.headers {
+    display: flex;
+    align-items: center;
+    top: 0;
+}
