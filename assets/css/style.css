@@ -1,3 +1,9 @@
 * {
     margin: 0;
 }
+.grey-chicken .chicken-color {
+    fill: red;
+}
+.blue-eyes .eye-color {
+    fill: blue;
+}
